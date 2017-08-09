@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><ratelimiter><testclass>org.training.service.impl.DefaultRatelimiterServiceIntegrationTest</testclass><testclass>org.training.jalo.RatelimiterTest</testclass></ratelimiter></testclasses>
